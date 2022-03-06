@@ -1,2 +1,1 @@
-# Pakistan_fast
-Pakistan clone
+New cammand
